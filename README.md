@@ -66,3 +66,7 @@ This project provides a simple yet powerful implementation of GPT-2 for text gen
 For further enhancements, consider integrating this model into a web interface or fine-tuning GPT-2 on domain-specific data for better results.
 
 OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/27f9903c-34ee-4fb6-a4d4-d3f53ae8655e)
+
+![Image](https://github.com/user-attachments/assets/8e30d735-f751-4483-8aeb-9a7a7af818d1)
